@@ -8,14 +8,14 @@ permalink: /experience/
 *UMass Lowell, Lowell, MA*  
 *January 2024 – Present*  
 
-- Developed and optimized backend pipelines to automate ingestion of procurement and energy data from ALC
-and Buyways into SQL Server, saving 10+ hours weekly and enabling real-time dashboard accuracy.
-- Built dynamic Python parsing logic to standardize and transform daily Buyways ZIP archives with variable
-CSV structures, enabling seamless eBuilder integration and reducing processing time by 80%.
-- Integrated RESTful eBuilder APIs using OAuth2 authentication to retrieve real-time procurement data,
+- **Developed and optimized backend pipelines** to automate ingestion of procurement and energy data from ALC
+and Buyways into SQL Server, **saving 10+ hours weekly** and enabling real-time dashboard accuracy.
+- **Built dynamic Python parsing logic** to standardize and transform daily Buyways ZIP archives with variable
+CSV structures, enabling seamless eBuilder integration and **reducing processing time by 80%.**
+- Integrated **RESTful eBuilder APIs** using **OAuth2 authentication** to retrieve real-time procurement data,
 flatten nested JSON, and synchronize structured tables with SQL Server.
 - Designed a metadata-driven ingestion framework to map sensor data to buildings and metrics, apply efficient
-filtering logic, and build indexed SQL views, improving dashboard query speed by over 30%.
+filtering logic, and build indexed SQL views, **improving dashboard query speed by over 30%.**
 - Collaborated with stakeholders to translate business requirements into end-to-end analytic solutions for energy
 and procurement workflows.  
 
