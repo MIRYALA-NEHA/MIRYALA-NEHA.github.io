@@ -4,7 +4,7 @@ layout: single
 title: "Work Experience"
 permalink: /experience/
 ---
-### **Back-end Developer**  
+### **Software Engineer - Data Engineering & Analytics**  
 *UMass Lowell, Lowell, MA*  
 *January 2024 – Present*  
 
