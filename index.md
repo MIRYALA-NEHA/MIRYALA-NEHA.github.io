@@ -4,7 +4,7 @@ title: "Hello , I'm Neha Miryala"
 sidebar: true
 ---
 
-A second-year Master's student in Computer Science at the University of Massachusetts Lowell. Currently, I work as a Back-end Developer and Energy Data Analyst at UMass Lowell.
+A second-year Master's student in Computer Science at the University of Massachusetts Lowell. Currently, I work as a Software Engineer at UMass Lowell.
 
 I am also actively engaged in Deep Learning research, with my recent paper accepted to IEEE. Additionally, I have completed various projects in Web Development.
 
